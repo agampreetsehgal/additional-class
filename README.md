@@ -1,1 +1,1 @@
-# additional-class
+# solar_power
